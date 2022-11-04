@@ -1,2 +1,2 @@
-# smitech.github.io
+# smitech9.github.io
 smitech portfolio
